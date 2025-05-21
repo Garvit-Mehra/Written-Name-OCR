@@ -51,6 +51,8 @@ Dependencies:
 
 📁 Dataset
 
+For the data refer to [kaggle](https://www.kaggle.com/competitions/pulse-quest/data)
+
 The dataset includes:
 - CSV files with image filenames and labels (written_name_train.csv, written_name_valid.csv)
 - Image folders:
