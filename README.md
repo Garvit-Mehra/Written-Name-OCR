@@ -2,7 +2,7 @@
 
 This project implements an Optical Character Recognition (OCR) model designed to recognize handwritten names using a Convolutional Recurrent Neural Network (CRNN) with BiLSTM layers and CTC loss. It is trained on grayscale name images and corresponding labels using TensorFlow.
 
-⸻
+---
 
 📑 Table of Contents
   1. Overview
