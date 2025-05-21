@@ -6,13 +6,13 @@ This project implements an Optical Character Recognition (OCR) model designed to
 
 📑 Table of Contents
   1. Overview
-	- Model Architecture
-	- Installation
-	- Dataset
-	- Usage
-	- Evaluation
-	- Results
-	- Acknowledgements
+  2. Model Architecture
+  3. Installation
+  4. Dataset
+  5. Usage
+  6. Evaluation
+  7. Results
+  8. Acknowledgements
 
 ---
 
