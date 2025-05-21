@@ -43,9 +43,9 @@ cd bilstm-ocr
 pip install -r requirements.txt
 ```
 Dependencies:
-	•	Python 3.x
-	•	TensorFlow
-	•	NumPy, Pandas, OpenCV, scikit-learn, Matplotlib
+	- Python 3.x
+	- TensorFlow
+	- NumPy, Pandas, OpenCV, scikit-learn, Matplotlib
 
 ---
 
